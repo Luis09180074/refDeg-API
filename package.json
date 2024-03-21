@@ -1,0 +1,18 @@
+{
+  "name": "refdegollado",
+  "version": "1.0.0",
+  "description": "API Refaccionaria",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "L",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.1",
+    "express-session": "^1.17.2",
+    "passport": "^0.4.1",
+    "passport-google-oauth20": "^2.0.0"
+  }
+}
